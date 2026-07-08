@@ -1,0 +1,7 @@
+build/
+*.o
+*.elf
+*.s
+.DS_Store
+node_modules/
+.env
