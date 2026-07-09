@@ -29,3 +29,54 @@ Status:
 
 Example message:
 gm thru from indonesia
+
+---
+
+## Guestbook V2
+
+Guestbook V2 upgrades the guestbook from event-only to stateful.
+
+Program account:
+
+\taXqFPQKYei0k7J5lq5GoMuw2VBydfmA7DuewfCUxYsGrD
+\
+State account:
+
+\tawMEal1YExM-Io7nmaWve1-XSo2R7P54fjXSO6K7hqq4F
+\
+Status:
+
+- Guestbook V2 compiled
+- Guestbook V2 deployed as a new program
+- Guestbook state account created
+- Post message transaction executed successfully
+- Account state updated with latest message
+- Event emitted with event_type = 2
+
+Example message:
+
+\gm thru v2 from indonesia
+\EOF
+
+---
+
+## Guestbook V2
+
+Guestbook V2 upgrades the guestbook from event-only to stateful.
+
+Program account:
+taXqFPQKYei0k7J5lq5GoMuw2VBydfmA7DuewfCUxYsGrD
+
+State account:
+tawMEal1YExM-Io7nmaWve1-XSo2R7P54fjXSO6K7hqq4F
+
+Status:
+- Guestbook V2 compiled
+- Guestbook V2 deployed as a new program
+- Guestbook state account created
+- Post message transaction executed successfully
+- Account state updated with latest message
+- Event emitted with event_type = 2
+
+Example message:
+gm thru v2 from indonesia
